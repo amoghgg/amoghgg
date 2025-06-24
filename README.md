@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Amogh Bajpai
 
-🎓 Final-year B.Tech student | 🎭 Theatre Director & Writer | 🧠 Machine Learning & Product Development Enthusiast
+🎓 Final-year B.Tech student | 🧠 Machine Learning & Product Development Enthusiast | 🎭 Theatre Director & Writer 
 
 ---
 
