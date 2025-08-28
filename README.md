@@ -1,91 +1,120 @@
-# 👋 Hey there, I'm Amogh Bajpai
+# 👋 Hey there, I'm Amogh Bajpai  
 
-🎓 Final-year B.Tech student | 🧠 Machine Learning & Product Development Enthusiast | 🎭 Theatre Director & Writer 
-
----
-
-### 🚀 Current Focus
-
-- 🔍 Building secure biometric systems during my internship at **Innovatiview India**
-- 🧠 Learning ML and Computer Vision through real-world projects
-- 🎬 Writing, directing, and performing original plays and films
+🎓 Final-year B.Tech student  
+💻 Full-Stack Developer | Applied Machine Learning  
+🎨 Exploring Creative Tech & AR/XR  
+⚡ Always building, breaking, and learning  
 
 ---
 
-### 💼 **Ongoing Internship Projects – Innovatiview**  
-
-#### 🔐 **Fingerprint Verification Web App**  
-> Developed a full-stack web app that verifies fingerprint authenticity using BioPass ID API.
-
-**Key Contributions:**  
-- Django backend with CSRF-exempt endpoints  
-- Base64-encoded image transmission to BioPass API  
-- Robust error handling for API responses  
-- Frontend in HTML/CSS/JS with intuitive capture UI  
-- Tools: Postman, curl, VSCode, PowerShell  
-
-🔧 **Stack:** Django, JavaScript, HTML/CSS, Python, REST API, Base64 Encoding  
+## 🚀 Current Focus  
+- Backend & API development (Django, DRF, Laravel, MySQL)  
+- Server setup, deployment, and optimization (Apache, SSL/TLS, PHP-FPM)  
+- Applied machine learning in biometrics & computer vision (OpenCV, TensorFlow.js, StyleGAN2)  
+- Full-stack product builds with React + Django  
+- Experimenting with AR/XR frameworks (Three.js, A-Frame, WebXR API, TouchDesigner, Unity basics)  
+- Creative coding with p5.js & OpenFrameworks  
+- Strengthening CS foundations (DSA in C++)  
 
 ---
 
-#### 🧬 **Image Morphing Detection System**  
-> Working on a face morphing detection system for secure biometric authentication.
+## 💼 Internship Projects @ Innovatiview (May – Sept 2025)  
 
-**In Progress:**  
-- Building face morph datasets  
-- Applying image comparison & pattern detection techniques  
-- Researching deepfake and morphing prevention strategies  
-- Experimenting with OpenCV, Dlib, StyleGAN2 and CNN-based detection  
+### 🔑 Fingerprint Verification Web App  
+Biometric verification system deployed across desktop & mobile.  
 
-🔧 **Stack:** Python, OpenCV, Dlib, StyleGAN2, SciKit-Image, NumPy
+**Key Contributions**  
+- Preprocessing with **CLAHE** for ridge enhancement  
+- Auto-thumb detection with **MediaPipe SDK**  
+- Silhouette alignment for consistent fingerprint matching  
+- OpenCV.js + TensorFlow.js Handpose integration  
+- REST APIs with Django REST Framework  
+- Cross-device testing & responsive frontend  
+- Secure storage using Google Sheets API (gspread)  
 
----
-
-### 🌟 **Featured Projects**
-
----
-
-#### 🐾 **Wildlife Conservation Using AI**  
-> An acoustic-based wildlife monitoring system for endangered species.
-
-**Highlights:**  
-- Spectrogram classification with CNNs  
-- Noise filtering pipeline for real-time alerts  
-- Designed for deployment in Indian forest zones  
-
-🔧 **Tech:** Librosa, TensorFlow, Python, Matplotlib  
-🔗 [GitHub Repo](https://github.com/amoghbajpai/wildlife-conservation-ai)
+**Stack:** Django, DRF, OpenCV.js, TensorFlow.js, MediaPipe, JavaScript, REST APIs  
 
 ---
 
-#### 🧠 **ScriptForge**  
-> A creative suite for writers & playwrights to craft scripts collaboratively.
+### 📦 Customer Delivery Verification System  
+A **full-stack app** for field delivery agents to log deliveries, handle mismatches, and capture proof.  
 
-**Features:**  
-- Scene/character management tools  
-- Collaboration-ready architecture  
-- Distraction-free writing space  
+**Key Contributions**  
+- Built React frontend with dynamic forms and conditional flows  
+- Integrated **Google Sheets + Google Drive API** for delivery records & proof storage  
+- Video proof upload feature with live recording from browser  
+- Delivery mismatch detection and exception handling on backend  
+- Django REST APIs for customer data fetch, delivery confirmation, and proof uploads  
+- Error handling, responsive UI, and deployment-ready structure  
 
-🔧 **Tech:** Django, JavaScript, Bootstrap, SQLite  
-🔗 [GitHub Repo](https://github.com/amoghbajpai/scriptforge)
-
----
-
-### 🛠️ **Skills & Tools**
-
-- **Languages:** Python, JavaScript, HTML/CSS, C  
-- **Frameworks:** Django, OpenCV, TensorFlow  
-- **Tools:** GitHub, Postman, VS Code, curl, Figma  
-- **API Experience:** RESTful APIs, BioPass ID, FileReader + Base64  
-- **Other Domains:** Theatre Writing & Direction, UI Design, Storyboarding  
+**Stack:** React.js, Django, DRF, gspread, Google Drive API, JavaScript  
 
 ---
 
-### 📫 Let’s Connect
+### ⚙️ MiHOPE Server (Laravel + Apache + MySQL)  
+Deployment & server configuration for an enterprise system.  
 
-- 🧑‍💻 [LinkedIn](https://linkedin.com/in/amoghbajpai)  
-- 🎭 [Instagram (Creative)](https://instagram.com/iapjab)  
-- 💌 Drop me a message — always open to cool ideas or collabs!
+**Key Contributions**  
+- XAMPP + phpMyAdmin setup, `.sql` dump restoration  
+- Composer dependency fixes & artisan migration debugging  
+- Apache SSL/TLS hardening, HTTP/2 migration, PHP-FPM optimization  
+- Live server debugging with PuTTY & WinSCP  
+
+**Stack:** Laravel, Apache, MySQL, PHP, Composer, PuTTY, WinSCP  
+
+---
+
+### 🌀 Image Morphing Detection System  
+R&D project on morph attack prevention in biometrics.  
+
+**Key Contributions**  
+- Built synthetic datasets using **StyleGAN2**  
+- Feature-level morph comparison & adaptive detection techniques  
+- Prototyped CNN-based morph detection pipelines  
+- Tested GAN-generated morph attacks against detection methods  
+
+**Stack:** Python, OpenCV, scikit-learn, **StyleGAN2**, CNN prototypes  
+
+---
+
+## 🌟 Featured Projects  
+
+- **Wildlife Conservation AI** 🐆  
+  Real-time monitoring system for endangered species.  
+  *Stack: TensorFlow, Python, Matplotlib*  
+
+- **ScriptForge** ✍️  
+  Collaborative scriptwriting suite for playwrights.  
+  *Stack: Django, JavaScript, Bootstrap, SQLite*  
+
+- **Creative Coding Visuals** 🎨  
+  Generative art experiments using p5.js & TouchDesigner.  
+
+---
+
+## ⚡ Skills & Tools  
+
+**Backend:** Django, DRF, Laravel, Apache, MySQL, gspread  
+**Frontend:** React.js, HTML/CSS/JavaScript, Axios  
+**Deployment:** Netlify, Vercel, Render, Railway, ngrok  
+**Applied Machine Learning:** TensorFlow.js, TensorFlow, OpenCV, StyleGAN2, scikit-learn  
+**Creative Tech / AR-XR:** Three.js, A-Frame, AR.js, WebXR API, p5.js, TouchDesigner, OpenFrameworks  
+**Other Tools:** Git/GitHub, PuTTY, WinSCP, phpMyAdmin  
+**Currently Learning:** DSA (C++), Unity basics, AR/XR prototyping  
+
+---
+
+## 🌱 Beyond Code  
+- Ex-President 🎭 Cinefilia (Theatre Club @ MUJ)  
+- Applying storytelling and design sense into software projects  
+- Exploring how creativity, ML, and engineering intersect  
+
+---
+
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/amogh-bajpai/)  
+- [Instagram](https://www.instagram.com/iapjab/)  
+- 💌 Drop me a message — open to building and collaborating!  
 
 ---
 
