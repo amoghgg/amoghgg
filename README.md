@@ -1,21 +1,21 @@
 # 👋 Hey there, I'm Amogh Bajpai  
 
-🎓 Final-year B.Tech student  
-💻 Full-Stack Developer | Applied Machine Learning  
-🎨 Exploring Creative Tech & AR/XR  
-⚡ Always building, breaking, and learning  
+🎓 B.Tech Final Year
+💻 Full-Stack Developer | Applied ML Engineer
+🧠 Building real-world AI systems
+🎨 Creative Tech • AR/XR • Interactive Media
 
 ---
 
 ## 🚀 Current Focus  
-- Backend & API development (Django, DRF, Laravel, MySQL)  
-- Server setup, deployment, and optimization (Apache, SSL/TLS, PHP-FPM)  
-- Applied machine learning in biometrics & computer vision (OpenCV, TensorFlow.js, StyleGAN2)  
-- Full-stack product builds with React + Django  
-- Experimenting with AR/XR frameworks (Three.js, A-Frame, WebXR API, TouchDesigner, Unity basics)  
-- Creative coding with p5.js & OpenFrameworks  
-- Strengthening CS foundations (DSA in C++)  
-
+Backend & API development (Django, Django REST Framework, Laravel, MySQL)
+Full-stack application development (React.js + Django)
+Server infrastructure, deployment, and performance tuning (Apache, SSL/TLS, PHP-FPM)
+Applied machine learning for biometrics & computer vision (OpenCV, TensorFlow.js, MediaPipe)
+Real-time browser AI & graphics systems (Three.js, WebGL, GSAP)
+AR/XR experimentation on the web (Three.js, A-Frame, WebXR API)
+Creative coding & interactive visuals (p5.js, TouchDesigner, openFrameworks)
+Strengthening computer science fundamentals (DSA in Python)
 ---
 
 ## 💼 Internship Projects @ Innovatiview (May – Sept 2025)  
