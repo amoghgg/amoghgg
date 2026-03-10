@@ -270,6 +270,9 @@ Stronger systems thinking through algorithms and data structures
 
 # Connect
 
+Portfolio
+[https://www.amoghbajpai.com]
+
 LinkedIn
 [https://www.linkedin.com/in/amogh-bajpai/](https://www.linkedin.com/in/amogh-bajpai/)
 
