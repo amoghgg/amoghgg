@@ -1,4 +1,4 @@
-# Hey, I'm Amogh 👋
+# Hey, I'm Amogh 
 
 APM at Innovatiview India, working at the intersection of AI and product. I spend most of my time figuring out what to build, then building it to make sure I actually understood the problem.
 
