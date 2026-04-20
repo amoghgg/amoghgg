@@ -1,6 +1,6 @@
 # Hey, I'm Amogh 
 
-APM at Innovatiview India, working at the intersection of AI and product. I spend most of my time figuring out what to build, then building it to make sure I actually understood the problem.
+ML engineer who can ship production systems, APM at Innovatiview India, working at the intersection of AI and product. I spend most of my time figuring out what to build, then building it to make sure I actually understood the problem.
 
 My work lately has been in computer vision and biometrics — liveness detection, face recognition, fingerprint verification. Not because it's trendy, but because it's one of the few spaces where the technical decisions directly shape whether real people get access to things or get locked out.
 
