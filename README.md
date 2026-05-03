@@ -1,31 +1,35 @@
-# Hey, I'm Amogh 
+# Hey, I'm Amogh
 
-ML engineer who can ship production systems, APM at Innovatiview India, working at the intersection of AI and product. I spend most of my time figuring out what to build, then building it to make sure I actually understood the problem.
+I came to engineering through theatre — years of directing performances, thinking about how bodies move through space and how small interactions create meaning. That way of thinking moved into the systems I build. TouchDesigner showed me code could be as plastic and expressive as lighting on a stage, and I never went back.
 
-My work lately has been in computer vision and biometrics — liveness detection, face recognition, fingerprint verification. Not because it's trendy, but because it's one of the few spaces where the technical decisions directly shape whether real people get access to things or get locked out.
+Today I work at the intersection of computer vision, machine learning, and interactive media. I treat technology as a medium for designing experiences, not just solving problems.
+
+→ Personal site: **[amoghbajpai.com](https://amoghbajpai.com)** — interactive demos, the longer story.
 
 ---
 
-## Things I've built
+## Things I've made
 
-**[Face Biometrics API](https://github.com/amoghgg/face-biometrics-api)** — Active liveness detection (head turns + smile) with face recognition (1:1 verify, 1:N search), age/gender estimation, and emotion analysis. FastAPI + MediaPipe + InsightFace ArcFace.
+**[Lores](https://github.com/amoghgg/lores)** — Browser-only pixel art tool. Drop an image, get authentic 8-bit output. Game Boy / PICO-8 / C64 palettes, Floyd–Steinberg and Bayer dithering, no upload. WebGPU + Next.js. Live at **[pixel.amoghbajpai.com](https://pixel.amoghbajpai.com)**.
 
-**[Biometric City](https://github.com/amoghgg/biometric-city)** — Real-time 3D city visualization for NYC and Mumbai with live biometric and urban data. Three.js frontend, FastAPI WebSocket backend, Blender for the 3D models.
+**[Pixel Manifold](https://amoghbajpai.com/#work)** *(on the site)* — Real-time face landmarks driving a Three.js particle field. Blink to charge a color shift; sustain to trigger a burst. MediaPipe + Three.js + GSAP, runs entirely in the browser.
 
-**[Fingerprint Verification Web App](https://github.com/amoghgg/fingerprint-verification-web-app)** — Browser-based fingerprint enrollment and verification using TensorFlow.js for thumb detection and OpenCV.js for image enhancement. Integrates with BioPass ID API.
+**[Semantic Stream](https://amoghbajpai.com/#work)** *(on the site)* — Live multimodal captioning: webcam feed → Gemini → one-line scene description, every five seconds. The whole thing is a single HTML file.
 
-**[Customer Verification App](https://github.com/amoghgg/customer-verification-app)** — Delivery verification system with video proof upload, Google Sheets + Drive integration, and mismatch handling. React + Django.
+**[Biometric City](https://github.com/amoghgg/biometric-city)** — Real-time 3D city visualization for NYC and Mumbai with live biometric and urban data. Three.js front-end, FastAPI + WebSocket back-end, Blender for the geometry.
 
-**[Wildlife Conservation Using AI](https://github.com/amoghgg/wildlife-conservation-using-ai)** — YOLOv11 object detection model for identifying animals, poachers, and vehicles in camera trap footage. 70% mAP@50, optimized for low-light remote environments.
+---
+
+## Day job
+
+I'm an Assistant Product Manager at **[Innovatiview India](https://innovatiview.com)**, the country's largest exam-security company. The biometrics that ship from that work lives in separate repos here — [face-biometrics-api](https://github.com/amoghgg/face-biometrics-api) (FastAPI + MediaPipe + InsightFace), [fingerprint-verification-web-app](https://github.com/amoghgg/fingerprint-verification-web-app), [customer-verification-app](https://github.com/amoghgg/customer-verification-app), [wildlife-conservation-using-ai](https://github.com/amoghgg/wildlife-conservation-using-ai). It's the work, not the identity.
 
 ---
 
 ## Stack I reach for
 
-Python · FastAPI · React · TypeScript · MediaPipe · TensorFlow.js · PostgreSQL · Docker
+Python · FastAPI · TypeScript · Next.js · MediaPipe · TensorFlow.js · Three.js · GLSL · TouchDesigner · WebGPU · Postgres
 
 ---
 
-Currently at **Innovatiview India** — building internal AI tools and working on biometric infrastructure for enterprise clients.
-
-Open to conversations about computer vision, product, or anything genuinely interesting. Reach me at [LinkedIn](https://linkedin.com/in/amoghbajpai) or just open an issue on something.
+Reach me at **hi@amoghbajpai.com** or on [LinkedIn](https://linkedin.com/in/amoghbajpai).
